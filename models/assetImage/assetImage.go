@@ -1,4 +1,4 @@
-package asset_image
+package assetImage
 
 import "time"
 
